@@ -1,0 +1,7 @@
+python-telegram-bot
+# Highly recommended for robust, high-speed execution (asyncio)
+aiohttp 
+# If you use Twilio for SMS/Call:
+twilio
+# If you use pandas for reading large target files:
+pandas
